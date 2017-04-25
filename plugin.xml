@@ -7,7 +7,7 @@
 
     <name>PlayGamesServices</name>
     <description>Google Play Games Services Cordova Plugin</description>
-    <author>Alberto Varela</author>
+    <author>Loonride</author>
     <license>MIT</license>
     <keywords>google, play, game, cordova, android</keywords>
     <repo>https://github.com/Loonride/cordova-plugin-play-games-services.git</repo>
